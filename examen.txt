@@ -1,0 +1,25 @@
+考试内容：
+1.会有quizz的题
+2.会考MapReduce的fontion怎么写 --写javascript
+3.le shema
+map: entree reduce est sortie
+map et reduce ensemble
+decouper les taches: plusieurs map reduce
+4.sql：column et  
+5.其他的语法都不考写 只要求读懂 lire une requet （surtout des questions de quizz）
+6.考试需要画entity association
+7.cle reference也会考
+dans TP:
+	collection paris, map-reduce et  ajouter des nouveaux collections
+	redis: key-value (base donne colone: des date de colone en ligne)
+json quel type de key que je veux faire pour faciliter le calcul
+8. key value需要会定义：（TP例子）
+(id_:category,"value")
+(id_:reviews i:rating, source)=(id_reviews flag: rating, source)
+(category+_id(=location),reviews)
+(category+coordinates,_id(=location)) remplir location par name
+
+4）MapReduce：It makes sense only when files are very large and are rarely updated.	
+
+
+10.colomn会考！ p10

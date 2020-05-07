@@ -1,0 +1,7 @@
+用anaconda de jupyter notebook import redis 时
+需要：
+pip install redis
+和
+conda install redis-py
+终端命令：
+jupyter notebook
